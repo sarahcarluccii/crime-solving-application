@@ -1,0 +1,106 @@
+A Robbering Bar happenned on February 23, 2021 at 1000 Whaley St
+Description: Man in twenties was seen robbing a bar and stealing liquor
+Crime Number: 1
+Solved?: true
+Severity: 6
+Jurisdiction: USCPD
+On the case: Michael Payne
+Victims: ID: 1
+	Name: Judy Stein
+	Age: 36
+	Height: 68 inches
+	Weight: 130 lbs.
+	Skin Color: white
+	Hair Color: brown
+	Eye Color: green
+	Address: 1400 Summer Ave
+	Phone Number: 6107340284
+	Email: judystein@gmail.com
+	Association To Suspect: None
+	Stories: Young man came in with gun and pointed it at him to give him money and liquor
+	Hospitalized
+
+Witnesses: ID: 1
+	Name: Olivia Coronado
+	Age: 37
+	Height: 67 inches
+	Weight: 120 lbs.
+	Skin Color: white
+	Hair Color: red
+	Eye Color: blue
+	Address: Address: Address: Address: 65 Maple St
+	Phone Number: 8539228739
+	Email: null
+	Suspect Associated to: 
+	Stories: witnessed Jenna Brown break and enter into nieghbors home
+ID: 2
+	Name: Billy Turner
+	Age: 66
+	Height: 74 inches
+	Weight: 200 lbs.
+	Skin Color: white
+	Hair Color: white
+	Eye Color: brown
+	Address: Address: Address: Address: 23987 Cornerstone Ave
+	Phone Number: 9450729932
+	Email: null
+	Suspect Associated to: 
+	Stories: Was in bank during robbery. Says robber sounded young and as pretty skinny
+
+Persons of Interest: ID: 1
+Name: Nathan Ford
+Age: 49
+Height: 63 inches
+Weight: 149 lbs.
+Skin Color: white
+Hair Color: black
+Eye Color: brown
+Address: Address: Address: Address: Address: 200 Mill Rd
+Phone Number: 8037771265
+Email: nathanford@gmail.com
+Suspect Associated to: Kaya Middleton
+Association To Suspect: Brother
+Stories: Brother, Sage, noted Nathan had been acting strangely since returning from their trip to cancun
+Suspects: ID: 1
+	Name: Kaya Middleton
+	Age: 23
+	Height: 67 inches
+	Weight: 140 lbs.
+	Skin Color: brown
+	Hair Color: black
+	Eye Color: brown
+	Address: 9521 Del Monte St.
+	Aliases: Mistress of Death
+	Crimes Committed: Robbering BarRobbering Bar
+	Evidence Found: 
+	Alibi: Her African Grey parrot claims she was at home
+Criminals: ID: 1
+Name: Tommy Windsor
+Age: 21
+Height: 72 inches
+Weight: 190 lbs.
+Skin Color: White
+Hair Color: Brown
+Eye Color: Brown
+Address: 633 Wells Rd
+User Entered: Chester Toppez
+Aliases: Liquor Robber
+Tattoos: Dove
+Crimes Committed: Robbering Bar
+In Jail
+Severity Ranking: 6
+
+Evidence: ID: 1
+	Evidence Type: gun
+	Location: 1000 Whaley St
+	Time: null
+	Entered Evidence: Chester Toppez
+	Comments: gun was fired, but no one was hurt
+ID: 2
+	Evidence Type: liquor bottle
+	Location: 1000 Whaley St
+	Time: null
+	Entered Evidence: Chester Toppez
+	Comments: bottle had Tommy Windsor's DNA on it
+
+Extra Info: Tommy Windsor is charged with robbery and stealing liquor and was sent to jail

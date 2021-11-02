@@ -1,0 +1,41 @@
+[ID: 3
+Name: Mark Kelly
+Age: 34
+Height: 74 inches
+Weight: 176 lbs.
+Skin Color: black
+Hair Color: black
+Eye Color: brown
+Address: 172 Penfield St
+User Entered: Chester Toppez
+Aliases: MK
+Crimes Committed: Assault
+Severity Ranking: 7
+, ID: 4
+Name: Eugene Krabs
+Age: 36
+Height: 74 inches
+Weight: 214 lbs.
+Skin Color: red
+Hair Color: black
+Eye Color: brown
+Address: 314 Bikini Bottom Ave
+User Entered: Michael Payne
+Aliases: Krusty Krab
+Tattoos: Dog
+Crimes Committed: Drunk Driving
+Severity Ranking: 8
+, ID: 5
+Name: Todd Chavez
+Age: 32
+Height: 74 inches
+Weight: 145 lbs.
+Skin Color: white
+Hair Color: black
+Eye Color: green
+Address: 430 HollyWoo ln
+User Entered: Chester Toppez
+Tattoos: Cat
+Crimes Committed: Drugs
+Severity Ranking: 7
+]

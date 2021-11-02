@@ -1,0 +1,16 @@
+[ID: 1
+Name: Tommy Windsor
+Age: 21
+Height: 72 inches
+Weight: 190 lbs.
+Skin Color: White
+Hair Color: Brown
+Eye Color: Brown
+Address: 633 Wells Rd
+User Entered: Chester Toppez
+Aliases: Liquor Robber
+Tattoos: Dove
+Crimes Committed: Robbering Bar
+In Jail
+Severity Ranking: 6
+]
